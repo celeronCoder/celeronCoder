@@ -14,7 +14,7 @@
     - [__CodePen__](https://codepen.io/khushalbhardwaj-0111)
 - 😄 Pronouns: He/ His
 
-![Khushal github stats](https://github-readme-stats.vercel.app/api?username=khushalbhardwaj-0111&show_icons=true&bg_color=227,aqua,dodgerblue,hotpink,aquamarine&hide=issues,stars)
+![Khushal github stats](https://github-readme-stats.vercel.app/api?username=khushalbhardwaj-0111&show_icons=true&theme=dark&hide=issues,stars)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khushalbhardwaj-0111&layout=compact)](https://github.com/khushalbhardwaj-0111/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khushalbhardwaj-0111&layout=compact&theme=dark)](https://github.com/khushalbhardwaj-0111/github-readme-stats)
