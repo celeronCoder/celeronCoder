@@ -1,16 +1,13 @@
-### Hi there 👋
+### Namaste 🙏🙏🙏🙏
 
-<!--
-**khushalbhardwaj-0111/khushalbhardwaj-0111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 style="align-items:center;"> I'm Khushal Bhardwaj </h1>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<ul list-style="none">
+  <li>🔭 I’m currently working on Whatsapp Clone</li>
+  <li>🌱 I’m currently learning Javascript, React, Express, NoSQL, Firebase, ...</li>
+  <li>👯 I’m looking to collaborate on Web Apps</li>
+  <li>🤔 I’m looking for help with Linux Dirvers</li>
+  <li>💬 Ask me about UI/UX</li>
+  <li>📫 How to reach me: ![Twitter Follow](https://img.shields.io/twitter/follow/Khushal56501057?label=Follow&style=social)</li>
+  <li>😄 Pronouns: He/ His</li>
+</ul>
