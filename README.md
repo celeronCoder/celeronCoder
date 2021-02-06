@@ -1,13 +1,20 @@
 ### Namaste 🙏🙏🙏🙏
 
-<h1 style="align-items:center;"> I'm Khushal Bhardwaj </h1>
+# I'm Khushal Bhardwaj
 
-<ul list-style="none">
-  <li>🔭 I’m currently working on Whatsapp Clone</li>
-  <li>🌱 I’m currently learning Javascript, React, Express, NoSQL, Firebase, ...</li>
-  <li>👯 I’m looking to collaborate on Web Apps</li>
-  <li>🤔 I’m looking for help with Linux Dirvers</li>
-  <li>💬 Ask me about UI/UX</li>
-  <li>📫 How to reach me: ![Twitter Follow](https://img.shields.io/twitter/follow/Khushal56501057?label=Follow&style=social)</li>
-  <li>😄 Pronouns: He/ His</li>
-</ul>
+- 🔭 I’m currently working on Whatsapp Clone
+- 🌱 I’m currently learning Javascript, React, Express, NoSQL, Firebase
+- 👯 I’m looking to collaborate on Web Apps
+- 🤔 I’m looking for help with Linux Dirvers
+- 💬 Ask me about UI/UX
+- 📫 How to reach me: 
+    - [__Twitter__](https://twitter.com/Khushal56501057)
+    - [__Dev__](https://dev.to/khushalbhardwaj0111)
+    - [__Repl__](https://repl.it/@khushalbhardwaj)
+    - [__CodePen__](https://codepen.io/khushalbhardwaj-0111)
+- 😄 Pronouns: He/ His
+
+![Khushal github stats](https://github-readme-stats.vercel.app/api?username=khushalbhardwaj-0111&show_icons=true&bg_color=227,aqua,dodgerblue,hotpink,aquamarine&hide=issues,stars)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khushalbhardwaj-0111&layout=compact)](https://github.com/khushalbhardwaj-0111/github-readme-stats)
