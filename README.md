@@ -1,6 +1,6 @@
 <span align="center">
-<h4>🙏 NAMASTE 🙏</h4>
-<p><img align="center" src="https://media.giphy.com/media/eKVQGBN9NTV2vNpqZA/giphy.gif" height="350"></p>
+<h4 align="center">🙏 NAMASTE 🙏</h4>
+<!--<p><img align="center" src="https://media.giphy.com/media/eKVQGBN9NTV2vNpqZA/giphy.gif" height="350"></p>-->
 	
 </span>
 
