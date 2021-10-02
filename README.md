@@ -21,6 +21,9 @@
 	
 </span>
 
+## <b>Github Trophies
+<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img align="center" src="https://github-profile-trophy.vercel.app/?username=khushalbhardwaj-0111&row=2&column=4&margin-w=15&margin-h=15&theme=darkhub&no-bg=true&no-frame=true" alt="khushalbhardwaj-0111" /></a></p>
+
 ## <b>Github Stars
 <br>
 
