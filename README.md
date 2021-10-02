@@ -12,12 +12,12 @@
 
 <span align="center">
 
-<p>I'm Khushal Bhardwaj, learning programming cool stuff.</p>
+<p>I'm Khushal Bhardwaj, learning to program cool stuff.</p>
 
-=> A high-school science student currently 16.
+- A high-school science student currently 17.
 	<br>
 	
-=> ⚡ Fun Fact: I love reading (webtoons 😆) 
+- ⚡ Fun Fact: I love reading (webtoons 😆) 
 	
 </span>
 
