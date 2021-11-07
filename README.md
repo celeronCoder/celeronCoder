@@ -6,39 +6,22 @@
 
 <br>
 
-## <b>About Me
-
-<br>
-
 <span align="center">
 
-<p>I'm Khushal Bhardwaj, learning to program cool stuff.</p>
+<p align="center">I'm Khushal Bhardwaj, learning to program cool stuff.</p>
 
-- A high-school science student currently 17.
+<div align="center">
+	A high-school science student currently 17.
 	<br>
-	
-- ⚡ Fun Fact: I love reading (webtoons 😆) 
-	
+	⚡ Fun Fact: I love reading (webtoons 😆)
+</div>
 </span>
-
-## <b>Github Trophies
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img align="center" src="https://github-profile-trophy.vercel.app/?username=khushalbhardwaj-0111&row=2&column=4&margin-w=15&margin-h=15&theme=darkhub&no-bg=true&no-frame=true" alt="khushalbhardwaj-0111" /></a></p>
 
 ## <b>Github Stars
 <br>
 
 ![Khushal's GitHub stats](https://github-readme-stats.vercel.app/api?username=khushalbhardwaj-0111&show_icons=true&theme=radical)
-
-## <b>Contribution Graph
-<br>
-
-![Khushal's Github Stars](https://activity-graph.herokuapp.com/graph?username=khushalbhardwaj-0111&theme=react-dark)
-    
-## <b>My Workspace 💻
-<br>
-	
-![image](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-[![Linux Badge](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](#)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khushalbhardwaj-0111&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
     
 ## <b>Languages and Tools 📚
 <br>
@@ -53,6 +36,7 @@
 <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/>
+[![Linux Badge](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](#)
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 <img src="https://img.shields.io/badge/Java-F68D14?style=for-the-badge&logo=java&logoColor=26738D" />
 <img src="https://img.shields.io/badge/Gradle-3FBAC4?style=for-the-badge&logo=gradle&logoColor=white" />
