@@ -39,6 +39,8 @@
 [![Linux Badge](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](#)
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 <img src="https://img.shields.io/badge/Java-F68D14?style=for-the-badge&logo=java&logoColor=26738D" />
+	![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+	![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 <img src="https://img.shields.io/badge/Gradle-3FBAC4?style=for-the-badge&logo=gradle&logoColor=white" />
 <img src="https://img.shields.io/badge/Intellij_Idea-EC2A64?style=for-the-badge&logo=intellij%20idea&logoColor=white" />
 	
