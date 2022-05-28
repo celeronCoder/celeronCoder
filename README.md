@@ -17,7 +17,7 @@
 </div>
 </span>
 
-## <b>Github Stars
+## <b>Github Stats
 <br>
 
 ![Khushal's GitHub stats](https://github-readme-stats.vercel.app/api?username=celeronCoder&show_icons=true&theme=radical)
@@ -47,7 +47,6 @@
 ## <b> Connect with me 🤙
 <br>
 
-<a href="mailto: khushalbhardwaj0111@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://twitter.com/celeronCoder"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 
 ---
