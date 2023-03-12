@@ -11,13 +11,13 @@
 <p align="center">I'm Khushal Bhardwaj, learning to program cool stuff.</p>
 
 <div align="center">
-	A high-school science student currently 17.
+	A high-school science student, currently 18.
 	<br>
 	⚡ Fun Fact: I love reading (webtoons 😆)
 </div>
 </span>
 
-## <b>Github Stats
+## <b>GitHub Stats
 <br>
 
 ![Khushal's GitHub stats](https://github-readme-stats.vercel.app/api?username=celeronCoder&show_icons=true&theme=radical)
@@ -55,4 +55,4 @@
 #### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="52">  Available any time to connect.
 	
 --- 
-##### Profile inspiration from [__Ibrahim Olayinka__](https://github.com/IbrahimOlayinka/) github profile.
+##### Profile inspiration from [__Ibrahim Olayinka__](https://github.com/IbrahimOlayinka/) GitHub profile.
